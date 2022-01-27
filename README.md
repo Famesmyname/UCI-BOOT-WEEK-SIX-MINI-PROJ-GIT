@@ -1,0 +1,2 @@
+# UCI-BOOT-WEEK-SIX-MINI-PROJ-GIT
+UCI BootCamp Week 6 Mini Project
